@@ -34,7 +34,7 @@ function App() {
 
   return (
     <>
-      <h1>Chai aur react</h1>
+      <h1>Basic click counter using 'useState'</h1>
       <h2>Counter Value: {counter}</h2>
       <button onClick={addValue}>Add value: {counter}</button>
       <br />
