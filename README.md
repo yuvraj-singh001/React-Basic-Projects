@@ -6,3 +6,6 @@ https://backgroundchanger-ten.vercel.app/
 
 Counter:
 https://counter-mu-inky.vercel.app/
+
+Currency Generator:
+https://currency-convertor-chi-two.vercel.app/
